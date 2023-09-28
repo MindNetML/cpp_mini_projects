@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/user/projects/cpp/build",
-  "command": "/usr/bin/clang++-12    -g   -o CMakeFiles/quick.dir/main.cpp.o -c /home/user/projects/cpp/main.cpp",
-  "file": "/home/user/projects/cpp/main.cpp"
-}
-]

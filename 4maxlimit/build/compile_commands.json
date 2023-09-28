@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/user/projects/cpp/4maxlimit/build",
-  "command": "/usr/bin/clang++-12    -g   -o CMakeFiles/maxlimit.dir/main.cpp.o -c /home/user/projects/cpp/4maxlimit/main.cpp",
-  "file": "/home/user/projects/cpp/4maxlimit/main.cpp"
-}
-]

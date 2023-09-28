@@ -1,2 +1,4 @@
 *.o
 *.o
+**/.cache/clangd/index/
+**/build/

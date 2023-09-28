@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/user/projects/cpp/print_sum2#/build",
-  "command": "/usr/bin/clang++-12    -g   -o CMakeFiles/sum2num.dir/main.cpp.o -c \"/home/user/projects/cpp/print_sum2#/main.cpp\"",
-  "file": "/home/user/projects/cpp/print_sum2#/main.cpp"
-}
-]
