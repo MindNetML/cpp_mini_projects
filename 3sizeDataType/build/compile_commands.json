@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/projects/cpp/3sizeDataType/build",
+  "command": "/usr/bin/clang++-12    -g   -o CMakeFiles/sizeDataType.dir/main.cpp.o -c /home/user/projects/cpp/3sizeDataType/main.cpp",
+  "file": "/home/user/projects/cpp/3sizeDataType/main.cpp"
+}
+]
