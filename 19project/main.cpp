@@ -12,7 +12,7 @@ int readNumber(){
 
 // Takes a single parameter and outputs the answer
 void writeAnswer(int num){
-    std::cout << num << std::endl;
+    std::cout << "The answer is: " << num << std::endl;
 
 }
 
