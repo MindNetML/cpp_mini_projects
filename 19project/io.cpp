@@ -1,4 +1,5 @@
 #include <iostream>
+#include "io.h"
 
 // function to get and return a single number from the user
 int readNumber(){
